@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leandrobenicio
+- 👋 Hi, I’m Leandro Benicio
 - 👀 I’m interested in Python, Machine Learning, Artificial Intelligence, Geoprocessing, Data Science
 - 🌱 I’m currently learning Python, Machine Learning, Artificial Intelligence
 - 💞️ I’m looking to collaborate on Python, Machine Learning, Artificial Intelligence, Geoprocessing, Data Science
